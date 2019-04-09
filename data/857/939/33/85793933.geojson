@@ -1,0 +1,110 @@
+{
+  "id": 85793933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14915090.500095,
+    "geom:bbox":"-61.060796,14.623489,-61.060796,14.623489",
+    "geom:latitude":14.623489,
+    "geom:longitude":-61.060796,
+    "gn:latitude":14.61667,
+    "gn:longitude":-61.06667,
+    "iso:country":"MQ",
+    "lbl:latitude":14.623489,
+    "lbl:longitude":-61.060796,
+    "mps:latitude":14.631285,
+    "mps:longitude":-61.062393,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:fre_x_preferred":[
+        "Coridon"
+    ],
+    "name:unk_x_variant":[
+        "Coridon"
+    ],
+    "qs:gn_adm0_cc":"MQ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3570675,
+    "qs:gn_nam_loc":"Fort-de-France, Fort-de-France, Fort-de-France, MQ",
+    "qs:gn_namadm1":"MQ",
+    "qs:gn_name":"Coridon",
+    "qs:local_max":1528,
+    "qs:local_sum":2050,
+    "qs:localhoods":3,
+    "qs:name":"Coridon",
+    "qs:name_adm0":"Martinique",
+    "qs:name_adm1":"Fort-de-France",
+    "qs:name_adm2":"Fort-de-France",
+    "qs:name_local":"Fort-de-France",
+    "qs:photo_max":6,
+    "qs:photo_sum":34,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424884,
+    "qs:woe_adm1":24549745,
+    "qs:woe_adm2":24551328,
+    "qs:woe_lau":0,
+    "qs:woe_local":110467,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        85671191,
+        102191581,
+        85633147,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570859,
+        "gp:id":110404,
+        "qs:id":1165140,
+        "qs_pg:id":1165140
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"8dca89300d43865df1bf8cd7169f300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":85793933,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":85793933,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1533329130,
+    "wof:name":"Coridon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.060796,
+    14.623489,
+    -61.060796,
+    14.623489
+],
+  "geometry": {"coordinates":[-61.060796,14.623489],"type":"Point"}
+}

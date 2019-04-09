@@ -1,0 +1,70 @@
+{
+  "id": 1292921943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91327,14.56166,-60.91327,14.56166",
+    "geom:latitude":14.56166,
+    "geom:longitude":-60.91327,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Roussane",
+    "gn:country_code":"MQ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598601,
+    "gn:latitude":14.56166,
+    "gn:longitude":-60.91327,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Roussane",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Roussane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598601
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"9595fc6faf76bd77f576861c07623d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1292921943,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1292921943,
+    "wof:lastmodified":1537665781,
+    "wof:name":"Roussane",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91327,
+    14.56166,
+    -60.91327,
+    14.56166
+],
+  "geometry": {"coordinates":[-60.91327,14.56166],"type":"Point"}
+}

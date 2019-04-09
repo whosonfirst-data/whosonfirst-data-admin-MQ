@@ -1,0 +1,75 @@
+{
+  "id": 1310537393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.15357,14.65638,-61.15357,14.65638",
+    "geom:latitude":14.65638,
+    "geom:longitude":-61.15357,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97234.0",
+    "gn:asciiname":"Fond Boucher",
+    "gn:cc2":"MQ",
+    "gn:country_code":"MQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570723,
+    "gn:latitude":14.65638,
+    "gn:longitude":-61.15357,
+    "gn:modification_date":"2016-06-08",
+    "gn:name":"Fond Boucher",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_historical":[
+        "Fond Giromont"
+    ],
+    "name:fra_x_preferred":[
+        "Fond Giromont"
+    ],
+    "name:und_x_variant":[
+        "Fonds Boucher",
+        "Fond Boucher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570723
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"9e06c9fd647bbfa6ef2d41e9e07d7f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310537393,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310537393,
+    "wof:lastmodified":1537665764,
+    "wof:name":"Fond Boucher",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.15357,
+    14.65638,
+    -61.15357,
+    14.65638
+],
+  "geometry": {"coordinates":[-61.15357,14.65638],"type":"Point"}
+}

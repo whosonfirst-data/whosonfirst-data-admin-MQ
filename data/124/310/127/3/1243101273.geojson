@@ -1,0 +1,73 @@
+{
+  "id": 1243101273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95153,14.4917,-60.95153,14.4917",
+    "geom:latitude":14.4917,
+    "geom:longitude":-60.95153,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97227.0",
+    "gn:asciiname":"Lavison",
+    "gn:country_code":"MQ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570438,
+    "gn:latitude":14.4917,
+    "gn:longitude":-60.95153,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Lavison",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lavison"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570438
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b2e3f03ca54861269f630470f37913f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243101273,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1243101273,
+    "wof:lastmodified":1537665757,
+    "wof:name":"Lavison",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95153000000001,
+    14.4917,
+    -60.95153000000001,
+    14.4917
+],
+  "geometry": {"coordinates":[-60.95153000000001,14.4917],"type":"Point"}
+}

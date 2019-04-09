@@ -1,0 +1,77 @@
+{
+  "id": 1260114733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.92858,14.63709,-60.92858,14.63709",
+    "geom:latitude":14.63709,
+    "geom:longitude":-60.92858,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97210.0",
+    "gn:asciiname":"Monnerot",
+    "gn:country_code":"MQ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570484,
+    "gn:latitude":14.63709,
+    "gn:longitude":-60.92858,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Monnerot",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Monnerot"
+    ],
+    "name:und_x_variant":[
+        "Quartier la Monnerot",
+        "La Monnerot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570484
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"ede4b67dc9ead26eb54ecb2138f7f65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260114733,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1260114733,
+    "wof:lastmodified":1537665759,
+    "wof:name":"Monnerot",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.92858,
+    14.63709,
+    -60.92858,
+    14.63709
+],
+  "geometry": {"coordinates":[-60.92858,14.63709],"type":"Point"}
+}

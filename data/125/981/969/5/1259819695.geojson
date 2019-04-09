@@ -1,0 +1,74 @@
+{
+  "id": 1259819695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02408,14.81792,-61.02408,14.81792",
+    "geom:latitude":14.81792,
+    "geom:longitude":-61.02408,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97216.0",
+    "gn:asciiname":"Plateforme",
+    "gn:country_code":"MQ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570132,
+    "gn:latitude":14.81792,
+    "gn:longitude":-61.02408,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Plateforme",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier Plateforme",
+        "Plateforme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570132
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"ff88bad4d593399028748872b9eb3678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259819695,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259819695,
+    "wof:lastmodified":1537665750,
+    "wof:name":"Plateforme",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02408000000001,
+    14.81792,
+    -61.02408000000001,
+    14.81792
+],
+  "geometry": {"coordinates":[-61.02408000000001,14.81792],"type":"Point"}
+}

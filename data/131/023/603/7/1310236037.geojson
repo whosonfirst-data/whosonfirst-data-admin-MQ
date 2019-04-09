@@ -1,0 +1,76 @@
+{
+  "id": 1310236037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95063,14.58224,-60.95063,14.58224",
+    "geom:latitude":14.58224,
+    "geom:longitude":-60.95063,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97207.0",
+    "gn:asciiname":"La Beauville",
+    "gn:country_code":"MQ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570053,
+    "gn:latitude":14.58224,
+    "gn:longitude":-60.95063,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"La Beauville",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Beauville"
+    ],
+    "name:und_x_variant":[
+        "Quartier la Beauville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570053
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"64b2073dd85d7fab26aa16fee3c245bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310236037,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1310236037,
+    "wof:lastmodified":1537665748,
+    "wof:name":"La Beauville",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95063,
+    14.58224,
+    -60.95063,
+    14.58224
+],
+  "geometry": {"coordinates":[-60.95063,14.58224],"type":"Point"}
+}

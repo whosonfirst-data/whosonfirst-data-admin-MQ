@@ -1,0 +1,70 @@
+{
+  "id": 1259701995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06714,14.51827,-61.06714,14.51827",
+    "geom:latitude":14.51827,
+    "geom:longitude":-61.06714,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Morne Bigot",
+    "gn:country_code":"MQ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586910,
+    "gn:latitude":14.51827,
+    "gn:longitude":-61.06714,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Morne Bigot",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Bigot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586910
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"99a1529a4260be43bfb928bd010e1981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259701995,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259701995,
+    "wof:lastmodified":1537665773,
+    "wof:name":"Morne Bigot",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06714,
+    14.51827,
+    -61.06714,
+    14.51827
+],
+  "geometry": {"coordinates":[-61.06714,14.51827],"type":"Point"}
+}

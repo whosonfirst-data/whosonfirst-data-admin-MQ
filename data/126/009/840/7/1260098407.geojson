@@ -1,0 +1,70 @@
+{
+  "id": 1260098407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.96036,14.697,-60.96036,14.697",
+    "geom:latitude":14.697,
+    "geom:longitude":-60.96036,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Charles",
+    "gn:country_code":"MQ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599526,
+    "gn:latitude":14.697,
+    "gn:longitude":-60.96036,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"La Charles",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Charles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599526
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"9871807dcf1f8cd0f309ea12bc0cedd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260098407,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1260098407,
+    "wof:lastmodified":1537665786,
+    "wof:name":"La Charles",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.96036,
+    14.697,
+    -60.96036,
+    14.697
+],
+  "geometry": {"coordinates":[-60.96036,14.697],"type":"Point"}
+}

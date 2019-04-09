@@ -1,0 +1,64 @@
+{
+  "id": 1310241743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.85979,14.46238,-60.85979,14.46238",
+    "geom:latitude":14.46238,
+    "geom:longitude":-60.85979,
+    "gn:admin1_code":"MQ",
+    "gn:asciiname":"Poirier",
+    "gn:country_code":"MQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570117,
+    "gn:latitude":14.46238,
+    "gn:longitude":-60.85979,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Poirier",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Poirier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570117
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"ab3b5e51599efd39d4d0d93165ea1a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310241743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310241743,
+    "wof:lastmodified":1537665750,
+    "wof:name":"Poirier",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.85979,
+    14.46238,
+    -60.85979,
+    14.46238
+],
+  "geometry": {"coordinates":[-60.85979,14.46238],"type":"Point"}
+}

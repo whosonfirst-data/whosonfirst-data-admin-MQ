@@ -1,0 +1,64 @@
+{
+  "id": 1276481365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.17271,14.69453,-61.17271,14.69453",
+    "geom:latitude":14.69453,
+    "geom:longitude":-61.17271,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97204.0",
+    "gn:asciiname":"Le Morne aux Boeufs",
+    "gn:country_code":"MQ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570425,
+    "gn:latitude":14.69453,
+    "gn:longitude":-61.17271,
+    "gn:modification_date":"2016-06-08",
+    "gn:name":"Le Morne aux B\u0153ufs",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570425
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"225de102cb3ca2bd83d2cebb3a04d1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276481365,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276481365,
+    "wof:lastmodified":1537074440,
+    "wof:name":"Le Morne aux Boeufs",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.17271,
+    14.69453,
+    -61.17271,
+    14.69453
+],
+  "geometry": {"coordinates":[-61.17271,14.69453],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226680925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90263,14.65015,-60.90263,14.65015",
+    "geom:latitude":14.65015,
+    "geom:longitude":-60.90263,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97222.0",
+    "gn:asciiname":"Mansarde Rancee",
+    "gn:country_code":"MQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570338,
+    "gn:latitude":14.65015,
+    "gn:longitude":-60.90263,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Mansarde Ranc\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mansarde Ranc\u00e9e"
+    ],
+    "name:und_x_variant":[
+        "Mansarde-Ranc\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570338
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"f2ffb0d10eb708fe9618adb713d837a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226680925,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226680925,
+    "wof:lastmodified":1537665755,
+    "wof:name":"Mansarde Rancee",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90263,
+    14.65015,
+    -60.90263,
+    14.65015
+],
+  "geometry": {"coordinates":[-60.90263,14.65015],"type":"Point"}
+}

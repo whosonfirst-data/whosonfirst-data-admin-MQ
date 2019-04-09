@@ -1,0 +1,70 @@
+{
+  "id": 1259593383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9373,14.50187,-60.9373,14.50187",
+    "geom:latitude":14.50187,
+    "geom:longitude":-60.9373,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bristol",
+    "gn:country_code":"MQ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586988,
+    "gn:latitude":14.50187,
+    "gn:longitude":-60.9373,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bristol",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bristol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586988
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"f75ba960eff0039fb8fb596b86ef2949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259593383,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259593383,
+    "wof:lastmodified":1537665775,
+    "wof:name":"Bristol",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9373,
+    14.50187,
+    -60.9373,
+    14.50187
+],
+  "geometry": {"coordinates":[-60.9373,14.50187],"type":"Point"}
+}

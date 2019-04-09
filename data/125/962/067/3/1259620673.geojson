@@ -1,0 +1,76 @@
+{
+  "id": 1259620673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.97287,14.66476,-60.97287,14.66476",
+    "geom:latitude":14.66476,
+    "geom:longitude":-60.97287,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9721.0",
+    "gn:admin4_code":"97213.0",
+    "gn:asciiname":"La Cadet",
+    "gn:country_code":"MQ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570976,
+    "gn:latitude":14.66476,
+    "gn:longitude":-60.97287,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"La Cadet",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Cadet"
+    ],
+    "name:und_x_variant":[
+        "Cadet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570976
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"d98a4e88d0a491fd08701b4e51563b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259620673,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259620673,
+    "wof:lastmodified":1537665768,
+    "wof:name":"La Cadet",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.97286999999999,
+    14.66476,
+    -60.97286999999999,
+    14.66476
+],
+  "geometry": {"coordinates":[-60.97286999999999,14.66476],"type":"Point"}
+}

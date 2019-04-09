@@ -1,0 +1,70 @@
+{
+  "id": 1310619107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99027,14.62827,-60.99027,14.62827",
+    "geom:latitude":14.62827,
+    "geom:longitude":-60.99027,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mangot Vulcin",
+    "gn:country_code":"MQ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601131,
+    "gn:latitude":14.62827,
+    "gn:longitude":-60.99027,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Mangot Vulcin",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mangot Vulcin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601131
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"cf8b73051d36a7a7730ee11e7d06f524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310619107,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1310619107,
+    "wof:lastmodified":1537665788,
+    "wof:name":"Mangot Vulcin",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99027,
+    14.62827,
+    -60.99027,
+    14.62827
+],
+  "geometry": {"coordinates":[-60.99027,14.62827],"type":"Point"}
+}

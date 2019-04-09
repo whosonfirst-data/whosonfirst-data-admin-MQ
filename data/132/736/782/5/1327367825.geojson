@@ -1,0 +1,79 @@
+{
+  "id": 1327367825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90322,14.52791,-60.90322,14.52791",
+    "geom:latitude":14.52791,
+    "geom:longitude":-60.90322,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97220.0",
+    "gn:asciiname":"Renee",
+    "gn:country_code":"MQ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570465,
+    "gn:latitude":14.52791,
+    "gn:longitude":-60.90322,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Ren\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ren\u00e9e"
+    ],
+    "name:und_x_variant":[
+        "Quartier la Ren\u00e9e",
+        "Quartier Ren\u00e9e",
+        "Quartier la Ren\u00e9",
+        "La Ren\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570465
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"a180255e6ba31c0b13ab57188f59def0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327367825,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1327367825,
+    "wof:lastmodified":1537665758,
+    "wof:name":"Renee",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90322,
+    14.52791,
+    -60.90322,
+    14.52791
+],
+  "geometry": {"coordinates":[-60.90322,14.52791],"type":"Point"}
+}

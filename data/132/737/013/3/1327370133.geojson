@@ -1,0 +1,71 @@
+{
+  "id": 1327370133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21413,14.78295,-61.21413,14.78295",
+    "geom:latitude":14.78295,
+    "geom:longitude":-61.21413,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97219.0",
+    "gn:asciiname":"Pointe Lamare",
+    "gn:country_code":"MQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570122,
+    "gn:latitude":14.78295,
+    "gn:longitude":-61.21413,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Pointe Lamare",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pointe Lamare"
+    ],
+    "name:und_x_variant":[
+        "Quartier Pointe La Mare",
+        "Pointe la Mare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570122
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"13fcfba6dcfe173f7b5409a7787a4087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327370133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327370133,
+    "wof:lastmodified":1537665750,
+    "wof:name":"Pointe Lamare",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21413,
+    14.78295,
+    -61.21413,
+    14.78295
+],
+  "geometry": {"coordinates":[-61.21413,14.78295],"type":"Point"}
+}

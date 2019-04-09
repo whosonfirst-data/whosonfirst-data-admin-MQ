@@ -1,0 +1,73 @@
+{
+  "id": 1310236487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.8312,14.46815,-60.8312,14.46815",
+    "geom:latitude":14.46815,
+    "geom:longitude":-60.8312,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97226.0",
+    "gn:asciiname":"La Casse",
+    "gn:country_code":"MQ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570538,
+    "gn:latitude":14.46815,
+    "gn:longitude":-60.8312,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"La Casse",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Casse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570538
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"1c364d18eb273fe6f0892a538f526651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310236487,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1310236487,
+    "wof:lastmodified":1537665760,
+    "wof:name":"La Casse",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.8312,
+    14.46815,
+    -60.8312,
+    14.46815
+],
+  "geometry": {"coordinates":[-60.8312,14.46815],"type":"Point"}
+}

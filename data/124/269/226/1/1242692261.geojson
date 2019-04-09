@@ -1,0 +1,70 @@
+{
+  "id": 1242692261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0717,14.50444,-61.0717,14.50444",
+    "geom:latitude":14.50444,
+    "geom:longitude":-61.0717,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cassiere",
+    "gn:country_code":"MQ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586921,
+    "gn:latitude":14.50444,
+    "gn:longitude":-61.0717,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Cassi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cassi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586921
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"fff4d954dfa1e600a9d8011e98bbd7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242692261,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1242692261,
+    "wof:lastmodified":1537665774,
+    "wof:name":"Cassiere",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0717,
+    14.50444,
+    -61.0717,
+    14.50444
+],
+  "geometry": {"coordinates":[-61.0717,14.50444],"type":"Point"}
+}

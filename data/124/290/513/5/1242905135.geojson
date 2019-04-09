@@ -1,0 +1,73 @@
+{
+  "id": 1242905135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95027,14.74063,-60.95027,14.74063",
+    "geom:latitude":14.74063,
+    "geom:longitude":-60.95027,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97230.0",
+    "gn:asciiname":"La Moise",
+    "gn:country_code":"MQ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570485,
+    "gn:latitude":14.74063,
+    "gn:longitude":-60.95027,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"La Mo\u00efse",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Mo\u00efse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570485
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"868a3d48f3d010f3c7bf082ced856313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242905135,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1242905135,
+    "wof:lastmodified":1537665759,
+    "wof:name":"La Moise",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95027,
+    14.74063,
+    -60.95027,
+    14.74063
+],
+  "geometry": {"coordinates":[-60.95027,14.74063],"type":"Point"}
+}

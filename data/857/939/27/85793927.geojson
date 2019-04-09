@@ -1,0 +1,112 @@
+{
+  "id": 85793927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16624455.143959,
+    "geom:bbox":"-61.098183,14.61984,-61.098183,14.61984",
+    "geom:latitude":14.61984,
+    "geom:longitude":-61.098183,
+    "gn:latitude":14.61667,
+    "gn:longitude":-61.1,
+    "iso:country":"MQ",
+    "lbl:latitude":14.61984,
+    "lbl:longitude":-61.098183,
+    "mps:latitude":14.61878,
+    "mps:longitude":-61.102019,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Case Navire"
+    ],
+    "name:fre_x_preferred":[
+        "Case Navire"
+    ],
+    "name:unk_x_variant":[
+        "Case Navire"
+    ],
+    "qs:gn_adm0_cc":"MQ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3570675,
+    "qs:gn_nam_loc":"Fort-de-France, Fort-de-France, Fort-de-France, MQ",
+    "qs:gn_namadm1":"MQ",
+    "qs:gn_name":"Case Navire",
+    "qs:local_max":1528,
+    "qs:local_sum":2050,
+    "qs:localhoods":3,
+    "qs:name":"Case Navire",
+    "qs:name_adm0":"Martinique",
+    "qs:name_adm1":"Fort-de-France",
+    "qs:name_adm2":"Schoelcher",
+    "qs:name_local":"Fort-de-France",
+    "qs:photo_max":292,
+    "qs:photo_sum":488,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424884,
+    "qs:woe_adm1":24549745,
+    "qs:woe_adm2":24551326,
+    "qs:woe_lau":0,
+    "qs:woe_local":110467,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85671191,
+        102191581,
+        85633147,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570929,
+        "gp:id":110387,
+        "qs:id":1082622,
+        "qs_pg:id":1082622
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"8979dd073472b7c158bb7be9971ca6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":85793927,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":85793927,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1533329129,
+    "wof:name":"Case Navire",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.098183,
+    14.61984,
+    -61.098183,
+    14.61984
+],
+  "geometry": {"coordinates":[-61.098183,14.61984],"type":"Point"}
+}

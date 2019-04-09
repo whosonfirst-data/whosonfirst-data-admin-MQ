@@ -1,0 +1,74 @@
+{
+  "id": 1259412377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00491,14.67451,-61.00491,14.67451",
+    "geom:latitude":14.67451,
+    "geom:longitude":-61.00491,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9721.0",
+    "gn:admin4_code":"97224.0",
+    "gn:asciiname":"Presqu'ile",
+    "gn:country_code":"MQ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570103,
+    "gn:latitude":14.67451,
+    "gn:longitude":-61.00491,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Presqu\u2019\u00eele",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier de la Presqu\u2019\u00eele",
+        "Presqu\u2019\u00eele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570103
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b2882a407a844c0d5847edfdcf21c64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259412377,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259412377,
+    "wof:lastmodified":1537665750,
+    "wof:name":"Presqu'ile",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00491,
+    14.67451,
+    -61.00491,
+    14.67451
+],
+  "geometry": {"coordinates":[-61.00491,14.67451],"type":"Point"}
+}

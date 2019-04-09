@@ -1,0 +1,74 @@
+{
+  "id": 1243101829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.9865,14.69823,-60.9865,14.69823",
+    "geom:latitude":14.69823,
+    "geom:longitude":-60.9865,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97212.0",
+    "gn:asciiname":"Croix Odilon",
+    "gn:country_code":"MQ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570832,
+    "gn:latitude":14.69823,
+    "gn:longitude":-60.9865,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Croix Odilon",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier Croix Odillon",
+        "Croix Odilon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570832
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b838ee4a4697de052ebc9a375004a327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243101829,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1243101829,
+    "wof:lastmodified":1537665766,
+    "wof:name":"Croix Odilon",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.9865,
+    14.69823,
+    -60.9865,
+    14.69823
+],
+  "geometry": {"coordinates":[-60.9865,14.69823],"type":"Point"}
+}

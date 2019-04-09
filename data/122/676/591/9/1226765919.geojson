@@ -1,0 +1,64 @@
+{
+  "id": 1226765919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.82488,14.51051,-60.82488,14.51051",
+    "geom:latitude":14.51051,
+    "geom:longitude":-60.82488,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Macabou",
+    "gn:country_code":"MQ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598456,
+    "gn:latitude":14.51051,
+    "gn:longitude":-60.82488,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Macabou",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Macabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598456
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"76755b3f1306d3b9bad3010fb8dbd768",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226765919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226765919,
+    "wof:lastmodified":1537665779,
+    "wof:name":"Macabou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.82488000000001,
+    14.51051,
+    -60.82488000000001,
+    14.51051
+],
+  "geometry": {"coordinates":[-60.82488000000001,14.51051],"type":"Point"}
+}

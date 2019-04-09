@@ -1,0 +1,78 @@
+{
+  "id": 1125316223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0075,14.7081,-61.0075,14.7081",
+    "geom:latitude":14.7081,
+    "geom:longitude":-61.0075,
+    "gn:gn_country":"MQ",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10765,
+    "gn:population":10765,
+    "iso:country":"MQ",
+    "lbl:latitude":14.7081,
+    "lbl:longitude":-61.0075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MQ",
+    "qs_pg:gn_country":"MQ",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690663,
+    "qs_pg:gn_pop":10765,
+    "qs_pg:name":"Le Gros-Morne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":643904,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690663,
+        "qs_pg:id":643904
+    },
+    "wof:country":"MQ",
+    "wof:created":1497044289,
+    "wof:geomhash":"191d4386244f8acf06b9ffa8aae85269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125316223,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1125316223,
+    "wof:lastmodified":1509388018,
+    "wof:name":"Le Gros-Morne",
+    "wof:parent_id":85671191,
+    "wof:placetype":"localadmin",
+    "wof:population":10765,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0075,
+    14.7081,
+    -61.0075,
+    14.7081
+],
+  "geometry": {"coordinates":[-61.0075,14.7081],"type":"Point"}
+}

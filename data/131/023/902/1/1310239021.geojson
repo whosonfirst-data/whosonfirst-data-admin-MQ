@@ -1,0 +1,68 @@
+{
+  "id": 1310239021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.20361,14.77953,-61.20361,14.77953",
+    "geom:latitude":14.77953,
+    "geom:longitude":-61.20361,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97225.0",
+    "gn:asciiname":"Fond Canonville",
+    "gn:country_code":"MQ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570716,
+    "gn:latitude":14.77953,
+    "gn:longitude":-61.20361,
+    "gn:modification_date":"2016-06-08",
+    "gn:name":"Fond Canonville",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canonville",
+        "Fond Canonville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570716
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"796241fc3a228f42c4018a1f2d3d42a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310239021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310239021,
+    "wof:lastmodified":1537665764,
+    "wof:name":"Fond Canonville",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20361,
+    14.77953,
+    -61.20361,
+    14.77953
+],
+  "geometry": {"coordinates":[-61.20361,14.77953],"type":"Point"}
+}

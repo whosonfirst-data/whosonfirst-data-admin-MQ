@@ -1,0 +1,75 @@
+{
+  "id": 1226571545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93272,14.63851,-60.93272,14.63851",
+    "geom:latitude":14.63851,
+    "geom:longitude":-60.93272,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97222.0",
+    "gn:asciiname":"Chapelle Villarson",
+    "gn:country_code":"MQ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570902,
+    "gn:latitude":14.63851,
+    "gn:longitude":-60.93272,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Chapelle Villarson",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier Chapelle Villar\u00e7on",
+        "Quartier Chapelle Villarson",
+        "Chapelle Villarson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570902
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"5c8f502f7c113455683b3543778c23f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226571545,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1226571545,
+    "wof:lastmodified":1537665767,
+    "wof:name":"Chapelle Villarson",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93272,
+    14.63851,
+    -60.93272,
+    14.63851
+],
+  "geometry": {"coordinates":[-60.93272,14.63851],"type":"Point"}
+}

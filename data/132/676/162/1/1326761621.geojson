@@ -1,0 +1,70 @@
+{
+  "id": 1326761621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22453,14.80114,-61.22453,14.80114",
+    "geom:latitude":14.80114,
+    "geom:longitude":-61.22453,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97219.0",
+    "gn:asciiname":"Le Precheur",
+    "gn:country_code":"MQ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570416,
+    "gn:latitude":14.80114,
+    "gn:longitude":-61.22453,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Le Pr\u00eacheur",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00eacheur",
+        "Prechur",
+        "Le Pr\u00eacheur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570416,
+        "wk:page":"Le_Pr%C3%AAcheur"
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"dc4f700e30716b37831f05e5015e50bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326761621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326761621,
+    "wof:lastmodified":1537665757,
+    "wof:name":"Le Precheur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22453,
+    14.80114,
+    -61.22453,
+    14.80114
+],
+  "geometry": {"coordinates":[-61.22453,14.80114],"type":"Point"}
+}

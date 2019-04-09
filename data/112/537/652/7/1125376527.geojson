@@ -1,0 +1,75 @@
+{
+  "id": 1125376527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08333,14.6,-61.08333,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-61.08333,
+    "gn:gn_country":"MQ",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":167961,
+    "gn:population":167961,
+    "iso:country":"MQ",
+    "lbl:latitude":14.6,
+    "lbl:longitude":-61.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Arrondissement du Sud"
+    ],
+    "qs_pg:aaroncc":"MQ",
+    "qs_pg:gn_country":"MQ",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3570674,
+    "qs_pg:gn_pop":167961,
+    "qs_pg:name":"Arrondissement de Fort-de-France",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":583457,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570674,
+        "qs_pg:id":583457
+    },
+    "wof:country":"MQ",
+    "wof:created":1497047779,
+    "wof:geomhash":"df7f54df8ae8d58bde076059ba7018f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376527,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125376527,
+    "wof:lastmodified":1509389473,
+    "wof:name":"Arrondissement de Fort-de-France",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":167961,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08333,
+    14.6,
+    -61.08333,
+    14.6
+],
+  "geometry": {"coordinates":[-61.08333,14.6],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310536429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93205,14.70672,-60.93205,14.70672",
+    "geom:latitude":14.70672,
+    "geom:longitude":-60.93205,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97222.0",
+    "gn:asciiname":"Bord de Mer",
+    "gn:country_code":"MQ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571006,
+    "gn:latitude":14.70672,
+    "gn:longitude":-60.93205,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Bord de Mer",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pothou",
+        "Pothuau",
+        "Bord de Mer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571006
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"814779b1c746dd927814b7918e0c348d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310536429,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1310536429,
+    "wof:lastmodified":1537665769,
+    "wof:name":"Bord de Mer",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93205,
+    14.70672,
+    -60.93205,
+    14.70672
+],
+  "geometry": {"coordinates":[-60.93205,14.70672],"type":"Point"}
+}

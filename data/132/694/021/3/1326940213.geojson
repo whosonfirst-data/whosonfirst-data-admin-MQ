@@ -1,0 +1,70 @@
+{
+  "id": 1326940213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91849,14.47458,-60.91849,14.47458",
+    "geom:latitude":14.47458,
+    "geom:longitude":-60.91849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beaulieu",
+    "gn:country_code":"MQ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598588,
+    "gn:latitude":14.47458,
+    "gn:longitude":-60.91849,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Beaulieu",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaulieu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598588
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b8a75b71f11366a54dc4e602b7ac18c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326940213,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1326940213,
+    "wof:lastmodified":1537665781,
+    "wof:name":"Beaulieu",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91849000000001,
+    14.47458,
+    -60.91849000000001,
+    14.47458
+],
+  "geometry": {"coordinates":[-60.91849000000001,14.47458],"type":"Point"}
+}

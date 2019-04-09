@@ -1,0 +1,64 @@
+{
+  "id": 1209224487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99463,14.63412,-60.99463,14.63412",
+    "geom:latitude":14.63412,
+    "geom:longitude":-60.99463,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Bananeraie",
+    "gn:country_code":"MQ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11601132,
+    "gn:latitude":14.63412,
+    "gn:longitude":-60.99463,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"La Bananeraie",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Bananeraie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601132
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"4c6e73341f932944627bc75c4ffdbdaa",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209224487,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1209224487,
+    "wof:lastmodified":1537665788,
+    "wof:name":"La Bananeraie",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99463000000001,
+    14.63412,
+    -60.99463000000001,
+    14.63412
+],
+  "geometry": {"coordinates":[-60.99463000000001,14.63412],"type":"Point"}
+}

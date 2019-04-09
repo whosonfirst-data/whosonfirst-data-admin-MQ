@@ -1,0 +1,76 @@
+{
+  "id": 1243103379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99211,14.7011,-60.99211,14.7011",
+    "geom:latitude":14.7011,
+    "geom:longitude":-60.99211,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97212.0",
+    "gn:asciiname":"La Dessaint",
+    "gn:country_code":"MQ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570052,
+    "gn:latitude":14.7011,
+    "gn:longitude":-60.99211,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"La Dessaint",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Dessaint"
+    ],
+    "name:und_x_variant":[
+        "Quartier la Dessaint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570052
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b1db3fb2ffda3cc6cb517472d7a67f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243103379,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1243103379,
+    "wof:lastmodified":1537665748,
+    "wof:name":"La Dessaint",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99211,
+    14.7011,
+    -60.99211,
+    14.7011
+],
+  "geometry": {"coordinates":[-60.99211,14.7011],"type":"Point"}
+}

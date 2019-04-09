@@ -1,0 +1,67 @@
+{
+  "id": 1276259627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.88344,14.44808,-60.88344,14.44808",
+    "geom:latitude":14.44808,
+    "geom:longitude":-60.88344,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97226.0",
+    "gn:asciiname":"Les Boucaniers",
+    "gn:country_code":"MQ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570407,
+    "gn:latitude":14.44808,
+    "gn:longitude":-60.88344,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Les Boucaniers",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Boucaniers"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570407
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"f9e8681ea8d897a0c46593947fd72767",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276259627,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276259627,
+    "wof:lastmodified":1537665756,
+    "wof:name":"Les Boucaniers",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88344,
+    14.44808,
+    -60.88344,
+    14.44808
+],
+  "geometry": {"coordinates":[-60.88344,14.44808],"type":"Point"}
+}

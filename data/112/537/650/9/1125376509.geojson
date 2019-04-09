@@ -1,0 +1,75 @@
+{
+  "id": 1125376509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.86667,14.46667,-60.86667,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-60.86667,
+    "gn:gn_country":"MQ",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":119269,
+    "gn:population":119269,
+    "iso:country":"MQ",
+    "lbl:latitude":14.46667,
+    "lbl:longitude":-60.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Le Marin"
+    ],
+    "qs_pg:aaroncc":"MQ",
+    "qs_pg:gn_country":"MQ",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":3570319,
+    "qs_pg:gn_pop":119269,
+    "qs_pg:name":"Arrondissement du Marin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":583455,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570319,
+        "qs_pg:id":583455
+    },
+    "wof:country":"MQ",
+    "wof:created":1497047778,
+    "wof:geomhash":"4937a74cfe39da8ee0ab5b418e153691",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125376509,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125376509,
+    "wof:lastmodified":1509389473,
+    "wof:name":"Arrondissement du Marin",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":119269,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.86667,
+    14.46667,
+    -60.86667,
+    14.46667
+],
+  "geometry": {"coordinates":[-60.86667,14.46667],"type":"Point"}
+}

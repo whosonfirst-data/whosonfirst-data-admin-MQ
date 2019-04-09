@@ -1,0 +1,71 @@
+{
+  "id": 1293818737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13897,14.64309,-61.13897,14.64309",
+    "geom:latitude":14.64309,
+    "geom:longitude":-61.13897,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97205.0",
+    "gn:asciiname":"Case-Pilote",
+    "gn:country_code":"MQ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570927,
+    "gn:latitude":14.64309,
+    "gn:longitude":-61.13897,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Case-Pilote",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_historical":[
+        "La Case Pilotte"
+    ],
+    "name:fra_x_preferred":[
+        "La Case Pilotte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570927,
+        "wk:page":"Case-Pilote"
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"cf7f36012a33f26bc3594a3f8d79539f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293818737,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293818737,
+    "wof:lastmodified":1537665768,
+    "wof:name":"Case-Pilote",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13896999999999,
+    14.64309,
+    -61.13896999999999,
+    14.64309
+],
+  "geometry": {"coordinates":[-61.13896999999999,14.64309],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259601277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.99903,14.7925,-60.99903,14.7925",
+    "geom:latitude":14.7925,
+    "geom:longitude":-60.99903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petit Bourg",
+    "gn:country_code":"MQ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599212,
+    "gn:latitude":14.7925,
+    "gn:longitude":-60.99903,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Petit Bourg",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petit Bourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599212
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"34b57313c5c76cd07a4efb1c0dc5c743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259601277,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1259601277,
+    "wof:lastmodified":1537665782,
+    "wof:name":"Petit Bourg",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.99903000000001,
+    14.7925,
+    -60.99903000000001,
+    14.7925
+],
+  "geometry": {"coordinates":[-60.99903000000001,14.7925],"type":"Point"}
+}

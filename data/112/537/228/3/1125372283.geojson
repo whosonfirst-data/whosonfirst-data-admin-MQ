@@ -1,0 +1,72 @@
+{
+  "id": 1125372283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2247,14.8011,-61.2247,14.8011",
+    "geom:latitude":14.8011,
+    "geom:longitude":-61.2247,
+    "gn:gn_country":"MQ",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":1699,
+    "gn:population":1699,
+    "iso:country":"MQ",
+    "lbl:latitude":14.8011,
+    "lbl:longitude":-61.2247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MQ",
+    "qs_pg:gn_country":"MQ",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690670,
+    "qs_pg:gn_pop":1699,
+    "qs_pg:name":"Le Pr\u00eacheur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":643911,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690670,
+        "qs_pg:id":643911
+    },
+    "wof:country":"MQ",
+    "wof:created":1497047491,
+    "wof:geomhash":"d495eb4dfb0bbd696126fa074e736130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125372283,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125372283,
+    "wof:lastmodified":1509389352,
+    "wof:name":"Le Pr\u00eacheur",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":1699,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2247,
+    14.8011,
+    -61.2247,
+    14.8011
+],
+  "geometry": {"coordinates":[-61.2247,14.8011],"type":"Point"}
+}

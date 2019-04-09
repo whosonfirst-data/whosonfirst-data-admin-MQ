@@ -1,0 +1,70 @@
+{
+  "id": 1210030977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00682,14.78403,-61.00682,14.78403",
+    "geom:latitude":14.78403,
+    "geom:longitude":-61.00682,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bellevue-Union",
+    "gn:country_code":"MQ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599258,
+    "gn:latitude":14.78403,
+    "gn:longitude":-61.00682,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Bellevue-Union",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bellevue-Union"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599258
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"b8254fec0505fe62a30c917092961e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1210030977,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1210030977,
+    "wof:lastmodified":1537665784,
+    "wof:name":"Bellevue-Union",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00682,
+    14.78403,
+    -61.00682,
+    14.78403
+],
+  "geometry": {"coordinates":[-61.00682,14.78403],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225879343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.8791,14.41958,-60.8791,14.41958",
+    "geom:latitude":14.41958,
+    "geom:longitude":-60.8791,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97226.0",
+    "gn:asciiname":"Fond Moustiques",
+    "gn:country_code":"MQ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570694,
+    "gn:latitude":14.41958,
+    "gn:longitude":-60.8791,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Fond Moustiques",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Moustiques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570694
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"5dcea553051b43bbfcb15724be90b05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225879343,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1225879343,
+    "wof:lastmodified":1537665763,
+    "wof:name":"Fond Moustiques",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.8791,
+    14.41958,
+    -60.8791,
+    14.41958
+],
+  "geometry": {"coordinates":[-60.8791,14.41958],"type":"Point"}
+}

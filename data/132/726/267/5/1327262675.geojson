@@ -1,0 +1,81 @@
+{
+  "id": 1327262675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18197,14.71129,-61.18197,14.71129",
+    "geom:latitude":14.71129,
+    "geom:longitude":-61.18197,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97204.0",
+    "gn:asciiname":"Le Carbet",
+    "gn:country_code":"MQ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570434,
+    "gn:latitude":14.71129,
+    "gn:longitude":-61.18197,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Le Carbet",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039a\u03b1\u03c1\u03bc\u03c0\u03ad"
+    ],
+    "name:fra_x_historical":[
+        "Bourg du Carbet"
+    ],
+    "name:fra_x_preferred":[
+        "Bourg du Carbet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041a\u0430\u0440\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Carbet",
+        "Le Carbet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570434,
+        "wk:page":"Le_Carbet"
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"77daba2e544a03a3e2992986ec34faef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327262675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327262675,
+    "wof:lastmodified":1537665757,
+    "wof:name":"Le Carbet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18196999999999,
+    14.71129,
+    -61.18196999999999,
+    14.71129
+],
+  "geometry": {"coordinates":[-61.18196999999999,14.71129],"type":"Point"}
+}

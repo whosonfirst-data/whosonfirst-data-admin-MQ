@@ -1,0 +1,74 @@
+{
+  "id": 1243398109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.04606,14.52212,-61.04606,14.52212",
+    "geom:latitude":14.52212,
+    "geom:longitude":-61.04606,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97231.0",
+    "gn:asciiname":"Concorde",
+    "gn:country_code":"MQ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570862,
+    "gn:latitude":14.52212,
+    "gn:longitude":-61.04606,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Concorde",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier Concorde",
+        "Concorde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570862
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"cb3f803f9df15b95e98590e66231d1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243398109,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1243398109,
+    "wof:lastmodified":1537665767,
+    "wof:name":"Concorde",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.04606,
+    14.52212,
+    -61.04606,
+    14.52212
+],
+  "geometry": {"coordinates":[-61.04606,14.52212],"type":"Point"}
+}

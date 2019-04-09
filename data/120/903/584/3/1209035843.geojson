@@ -1,0 +1,67 @@
+{
+  "id": 1209035843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95985,14.67224,-60.95985,14.67224",
+    "geom:latitude":14.67224,
+    "geom:longitude":-60.95985,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9722.0",
+    "gn:admin4_code":"97222.0",
+    "gn:asciiname":"Beausejour",
+    "gn:country_code":"MQ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571079,
+    "gn:latitude":14.67224,
+    "gn:longitude":-60.95985,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Beaus\u00e9jour",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaus\u00e9jour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571079
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"ef206c4a1eda9c7e35b8edcba2f96f2e",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209035843,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1209035843,
+    "wof:lastmodified":1537665771,
+    "wof:name":"Beausejour",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95985,
+    14.67224,
+    -60.95985,
+    14.67224
+],
+  "geometry": {"coordinates":[-60.95985,14.67224],"type":"Point"}
+}

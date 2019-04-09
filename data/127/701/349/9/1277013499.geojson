@@ -1,0 +1,67 @@
+{
+  "id": 1277013499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.86208,14.44619,-60.86208,14.44619",
+    "geom:latitude":14.44619,
+    "geom:longitude":-60.86208,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97226.0",
+    "gn:asciiname":"Mondesir",
+    "gn:country_code":"MQ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570285,
+    "gn:latitude":14.44619,
+    "gn:longitude":-60.86208,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Mond\u00e9sir",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mond\u00e9sir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570285
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"109bcd158e488195d869d7561a1f891c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277013499,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277013499,
+    "wof:lastmodified":1537665754,
+    "wof:name":"Mondesir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.86208000000001,
+    14.44619,
+    -60.86208000000001,
+    14.44619
+],
+  "geometry": {"coordinates":[-60.86208000000001,14.44619],"type":"Point"}
+}

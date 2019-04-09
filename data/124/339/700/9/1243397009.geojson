@@ -1,0 +1,68 @@
+{
+  "id": 1243397009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16726,14.67736,-61.16726,14.67736",
+    "geom:latitude":14.67736,
+    "geom:longitude":-61.16726,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9724.0",
+    "gn:admin4_code":"97204.0",
+    "gn:asciiname":"Fond Capot",
+    "gn:country_code":"MQ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570715,
+    "gn:latitude":14.67736,
+    "gn:longitude":-61.16726,
+    "gn:modification_date":"2016-06-08",
+    "gn:name":"Fond Capot",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonds Capot",
+        "Fond Capot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570715
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"698c1f24c1c96a29d0d2e4922fe4797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243397009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243397009,
+    "wof:lastmodified":1537665764,
+    "wof:name":"Fond Capot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16726,
+    14.67736,
+    -61.16726,
+    14.67736
+],
+  "geometry": {"coordinates":[-61.16726,14.67736],"type":"Point"}
+}

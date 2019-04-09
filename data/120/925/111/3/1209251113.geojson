@@ -1,0 +1,68 @@
+{
+  "id": 1209251113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.90752,14.51265,-60.90752,14.51265",
+    "geom:latitude":14.51265,
+    "geom:longitude":-60.90752,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97220.0",
+    "gn:asciiname":"Prefontaine",
+    "gn:country_code":"MQ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570024,
+    "gn:latitude":14.51265,
+    "gn:longitude":-60.90752,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Pr\u00e9fontaine",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00e9fontaine",
+        "Quartier Pr\u00e9fontaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570024
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"1f36277a803fc2e34bad8bed455616db",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209251113,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1209251113,
+    "wof:lastmodified":1537665747,
+    "wof:name":"Prefontaine",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.90752,
+    14.51265,
+    -60.90752,
+    14.51265
+],
+  "geometry": {"coordinates":[-60.90752,14.51265],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277013759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.83303,14.42918,-60.83303,14.42918",
+    "geom:latitude":14.42918,
+    "geom:longitude":-60.83303,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9723.0",
+    "gn:admin4_code":"97226.0",
+    "gn:asciiname":"Petit Sable",
+    "gn:country_code":"MQ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570154,
+    "gn:latitude":14.42918,
+    "gn:longitude":-60.83303,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Petit Sable",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petit Sable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570154
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"c46425267ce1905bb028bd0a8cb1fef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277013759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277013759,
+    "wof:lastmodified":1537665751,
+    "wof:name":"Petit Sable",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.83303000000001,
+    14.42918,
+    -60.83303000000001,
+    14.42918
+],
+  "geometry": {"coordinates":[-60.83303000000001,14.42918],"type":"Point"}
+}

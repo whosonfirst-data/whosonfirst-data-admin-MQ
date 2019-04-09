@@ -1,0 +1,70 @@
+{
+  "id": 1310115821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.89867,14.5544,-60.89867,14.5544",
+    "geom:latitude":14.5544,
+    "geom:longitude":-60.89867,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Sept Croisees",
+    "gn:country_code":"MQ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11598615,
+    "gn:latitude":14.5544,
+    "gn:longitude":-60.89867,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Les Sept Crois\u00e9es",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Sept Crois\u00e9es"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598615
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"98a23f73dff6a526c1234ef833e8e769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310115821,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1310115821,
+    "wof:lastmodified":1537665781,
+    "wof:name":"Les Sept Croisees",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.89867,
+    14.5544,
+    -60.89867,
+    14.5544
+],
+  "geometry": {"coordinates":[-60.89867,14.5544],"type":"Point"}
+}

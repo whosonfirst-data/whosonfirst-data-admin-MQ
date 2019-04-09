@@ -1,0 +1,76 @@
+{
+  "id": 1326664207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94997,14.65116,-60.94997,14.65116",
+    "geom:latitude":14.65116,
+    "geom:longitude":-60.94997,
+    "gn:admin1_code":"MQ",
+    "gn:admin2_code":"972.0",
+    "gn:admin3_code":"9721.0",
+    "gn:admin4_code":"97213.0",
+    "gn:asciiname":"Duchene",
+    "gn:country_code":"MQ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3570788,
+    "gn:latitude":14.65116,
+    "gn:longitude":-60.94997,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Duch\u00eane",
+    "gn:population":0,
+    "gn:timezone":"America/Martinique",
+    "iso:country":"MQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quartier la Duch\u00eane",
+        "La Duch\u00eane",
+        "Duchesne",
+        "Duch\u00eane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570788
+    },
+    "wof:country":"MQ",
+    "wof:geomhash":"70b18b1574f610bbce930e2f4d0e25ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326664207,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1326664207,
+    "wof:lastmodified":1537665765,
+    "wof:name":"Duchene",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94996999999999,
+    14.65116,
+    -60.94996999999999,
+    14.65116
+],
+  "geometry": {"coordinates":[-60.94996999999999,14.65116],"type":"Point"}
+}
