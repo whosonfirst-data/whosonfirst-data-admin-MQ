@@ -17,17 +17,11 @@
     "name:afr_x_preferred":[
         "Fort-de-France"
     ],
-    "name:alb_x_preferred":[
-        "Fort de France"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631 \u062f\u0648 \u0641\u0631\u0627\u0646\u0633"
     ],
     "name:arg_x_preferred":[
         "Fort-de-France"
-    ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0580 \u0564\u0565 \u0556\u0580\u0561\u0576\u057d"
     ],
     "name:ast_x_preferred":[
         "Fort-de-France"
@@ -39,9 +33,6 @@
         "For-de-Frans"
     ],
     "name:bam_x_preferred":[
-        "Fort-de-France"
-    ],
-    "name:baq_x_preferred":[
         "Fort-de-France"
     ],
     "name:bar_x_preferred":[
@@ -65,8 +56,8 @@
     "name:cat_x_preferred":[
         "Fort-de-France"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u5170\u897f\u5821"
+    "name:ces_x_preferred":[
+        "Fort-de-France"
     ],
     "name:cor_x_preferred":[
         "Fort-de-France"
@@ -74,14 +65,17 @@
     "name:cos_x_preferred":[
         "Fort-de-France"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Fort-de-France"
     ],
     "name:dan_x_preferred":[
         "Fort-de-France"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fort-de-France"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c1-\u03bd\u03c4\u03b5-\u03a6\u03c1\u03b1\u03bd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Fort-de-France"
@@ -92,28 +86,28 @@
     "name:est_x_preferred":[
         "Fort-de-France"
     ],
+    "name:eus_x_preferred":[
+        "Fort-de-France"
+    ],
     "name:fao_x_preferred":[
         "Fort-de-France"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0631-\u062f\u0648-\u0641\u0631\u0627\u0646\u0633"
     ],
     "name:fin_x_preferred":[
         "Fort-de-France"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Fort-de-France"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Fort-de-France"
     ],
     "name:frp_x_preferred":[
         "F\u00f4rt-de-France"
     ],
     "name:fur_x_preferred":[
-        "Fort-de-France"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10e0-\u10d3\u10d4-\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Fort-de-France"
     ],
     "name:gla_x_preferred":[
@@ -124,9 +118,6 @@
     ],
     "name:glg_x_preferred":[
         "Fort-de-France"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c1-\u03bd\u03c4\u03b5-\u03a6\u03c1\u03b1\u03bd\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Fort-de-France"
@@ -149,8 +140,8 @@
     "name:hun_x_preferred":[
         "Fort-de-France"
     ],
-    "name:ice_x_preferred":[
-        "Fort-de-France"
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0580 \u0564\u0565 \u0556\u0580\u0561\u0576\u057d"
     ],
     "name:ido_x_preferred":[
         "Fort-de-France"
@@ -162,6 +153,9 @@
         "Fort-de-France"
     ],
     "name:ind_x_preferred":[
+        "Fort-de-France"
+    ],
+    "name:isl_x_preferred":[
         "Fort-de-France"
     ],
     "name:ita_x_preferred":[
@@ -184,6 +178,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cab\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0ca1\u0cbf \u0cab\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10e0-\u10d3\u10d4-\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u043e\u0440-\u0434\u0435-\u0424\u0440\u0430\u043d\u0441"
@@ -215,23 +212,23 @@
     "name:ltz_x_preferred":[
         "Fort-de-France"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u043e\u0440 \u0434\u0435 \u0424\u0440\u0430\u043d\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u094b\u0930\u094d\u091f-\u0926\u0947-\u092b\u094d\u0930\u093e\u0928\u094d\u0938"
     ],
-    "name:may_x_preferred":[
-        "Fort-de-France"
-    ],
     "name:min_x_preferred":[
         "Fort-de-France"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u043e\u0440 \u0434\u0435 \u0424\u0440\u0430\u043d\u0441"
     ],
     "name:mlg_x_preferred":[
         "Fort-de-France"
     ],
     "name:mon_x_preferred":[
         "\u0424\u043e\u0440\u0442-\u0434\u0435-\u0424\u0440\u0430\u043d\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Fort-de-France"
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0648\u0631 \u062f\u0648 \u0641\u0631\u0627\u0646\u0633"
@@ -240,6 +237,9 @@
         "Fort-de-France"
     ],
     "name:nds_x_preferred":[
+        "Fort-de-France"
+    ],
+    "name:nld_x_preferred":[
         "Fort-de-France"
     ],
     "name:nno_x_preferred":[
@@ -266,9 +266,6 @@
     "name:pcd_x_preferred":[
         "Fort-de-France"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0631-\u062f\u0648-\u0641\u0631\u0627\u0646\u0633"
-    ],
     "name:pms_x_preferred":[
         "Fort-de-France"
     ],
@@ -290,7 +287,7 @@
     "name:roh_x_preferred":[
         "Fort-de-France"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fort-de-France"
     ],
     "name:rup_x_preferred":[
@@ -308,7 +305,7 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0ddd\u0dbb\u0dca\u0da7\u0dca \u0da9\u0dd2 \u0dc6\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fort-de-France"
     ],
     "name:slv_x_preferred":[
@@ -316,6 +313,9 @@
     ],
     "name:spa_x_preferred":[
         "Fuerte de Francia"
+    ],
+    "name:sqi_x_preferred":[
+        "Fort de France"
     ],
     "name:srd_x_preferred":[
         "Fort-de-France"
@@ -380,9 +380,6 @@
     "name:war_x_preferred":[
         "Fort-de-France"
     ],
-    "name:wel_x_preferred":[
-        "Fort-de-France"
-    ],
     "name:wln_x_preferred":[
         "Fort-de-France"
     ],
@@ -394,6 +391,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6cd5\u862d\u897f\u5821"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5170\u897f\u5821"
     ],
     "name:zul_x_preferred":[
         "Fort-de-France"
@@ -517,7 +517,7 @@
         }
     ],
     "wof:id":1141907601,
-    "wof:lastmodified":1537229416,
+    "wof:lastmodified":1561844834,
     "wof:name":"Fort-de-France",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

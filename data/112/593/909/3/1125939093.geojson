@@ -31,25 +31,25 @@
     "name:bam_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:baq_x_preferred":[
-        "Saint-Esprit"
-    ],
     "name:bar_x_preferred":[
         "Saint-Esprit"
     ],
     "name:cat_x_preferred":[
         "Saint-Esprit"
     ],
+    "name:ces_x_preferred":[
+        "Saint-Esprit"
+    ],
     "name:cos_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saint-Esprit"
     ],
     "name:dan_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saint-Esprit"
     ],
     "name:eng_x_preferred":[
@@ -61,25 +61,25 @@
     "name:est_x_preferred":[
         "Saint-Esprit"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Esprit"
+    ],
     "name:fao_x_preferred":[
         "Saint-Esprit"
     ],
     "name:fin_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Saint-Esprit"
     ],
     "name:frp_x_preferred":[
         "Saint-Esprit"
     ],
     "name:fur_x_preferred":[
-        "Saint-Esprit"
-    ],
-    "name:ger_x_preferred":[
         "Saint-Esprit"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +100,6 @@
     "name:hun_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:ice_x_preferred":[
-        "Saint-Esprit"
-    ],
     "name:ido_x_preferred":[
         "Saint-Esprit"
     ],
@@ -113,6 +110,9 @@
         "Saint-Esprit"
     ],
     "name:ind_x_preferred":[
+        "Saint-Esprit"
+    ],
+    "name:isl_x_preferred":[
         "Saint-Esprit"
     ],
     "name:ita_x_preferred":[
@@ -148,19 +148,22 @@
     "name:ltz_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:may_x_preferred":[
-        "Saint-Esprit"
-    ],
     "name:min_x_preferred":[
         "Saint-Esprit"
     ],
     "name:mlg_x_preferred":[
         "Saint-Esprit"
     ],
+    "name:msa_x_preferred":[
+        "Saint-Esprit"
+    ],
     "name:nap_x_preferred":[
         "Saint-Esprit"
     ],
     "name:nds_x_preferred":[
+        "Saint-Esprit"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Esprit"
     ],
     "name:nno_x_preferred":[
@@ -199,7 +202,7 @@
     "name:roh_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Esprit"
     ],
     "name:scn_x_preferred":[
@@ -208,7 +211,7 @@
     "name:sco_x_preferred":[
         "Saint-Esprit"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Esprit"
     ],
     "name:spa_x_preferred":[
@@ -251,9 +254,6 @@
         "Saint-Esprit"
     ],
     "name:war_x_preferred":[
-        "Saint-Esprit"
-    ],
-    "name:wel_x_preferred":[
         "Saint-Esprit"
     ],
     "name:wln_x_preferred":[
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":1125939093,
-    "wof:lastmodified":1531422136,
+    "wof:lastmodified":1561844833,
     "wof:name":"Saint-Esprit",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

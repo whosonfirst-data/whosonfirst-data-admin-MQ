@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16624455.143959,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.098183,14.61984,-61.098183,14.61984",
     "geom:latitude":14.61984,
     "geom:longitude":-61.098183,
@@ -26,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Case Navire"
-    ],
-    "name:fre_x_preferred":[
         "Case Navire"
     ],
     "name:unk_x_variant":[
@@ -93,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533329129,
+    "wof:lastmodified":1561844831,
     "wof:name":"Case Navire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
