@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18237798.771071,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.071118,14.601666,-61.071118,14.601666",
     "geom:latitude":14.601666,
     "geom:longitude":-61.071118,
@@ -24,13 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Ste.-Th\u00e9r\u00e8se"
+    ],
     "name:fre_x_colloquial":[
         "Sainte-Therese",
         "Ste-Therese",
         "Ste.-therese"
-    ],
-    "name:fre_x_preferred":[
-        "Ste.-Th\u00e9r\u00e8se"
     ],
     "name:fre_x_variant":[
         "Sainte-Th\u00e9r\u00e8se",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533329131,
+    "wof:lastmodified":1561844831,
     "wof:name":"Ste.-Th\u00e9r\u00e8se",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

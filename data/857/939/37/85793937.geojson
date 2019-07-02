@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":39596942.865519,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.903677,14.478445,-60.903677,14.478445",
     "geom:latitude":14.478445,
     "geom:longitude":-60.903677,
@@ -30,9 +30,6 @@
     ],
     "name:fre_x_colloquial":[
         "Faubourg Schoelcher"
-    ],
-    "name:fre_x_preferred":[
-        "Faubourg Sch\u0153lcher"
     ],
     "name:unk_x_variant":[
         "Faubourg Sch\u0153lcher"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533329130,
+    "wof:lastmodified":1561844831,
     "wof:name":"Faubourg Sch\u0153lcher",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
