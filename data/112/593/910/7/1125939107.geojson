@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Le Morne-Rouge"
     ],
+    "name:ceb_x_preferred":[
+        "Le Morne-Rouge"
+    ],
     "name:ces_x_preferred":[
         "Le Morne-Rouge"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Le Morne-Rouge"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039c\u03bf\u03c1\u03bd-\u03a1\u03bf\u03c5\u03b6"
     ],
     "name:eng_x_preferred":[
         "Le Morne-Rouge"
@@ -307,7 +313,7 @@
         }
     ],
     "wof:id":1125939107,
-    "wof:lastmodified":1561844833,
+    "wof:lastmodified":1563291381,
     "wof:name":"Le Morne-Rouge",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
