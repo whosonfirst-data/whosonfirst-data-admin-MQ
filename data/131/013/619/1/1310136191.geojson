@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Lecomte"
     ],
+    "name:spa_x_preferred":[
+        "Lecomte"
+    ],
     "name:und_x_variant":[
         "Quartier Lecombe",
         "Quartier Lecomte"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310136191,
-    "wof:lastmodified":1537665747,
+    "wof:lastmodified":1564329910,
     "wof:name":"Lecomte",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -28,7 +28,19 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Source"
+    ],
     "name:fra_x_preferred":[
+        "La Source"
+    ],
+    "name:pol_x_preferred":[
+        "La Source"
+    ],
+    "name:spa_x_preferred":[
+        "La Source"
+    ],
+    "name:swe_x_preferred":[
         "La Source"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259719397,
-    "wof:lastmodified":1537665758,
+    "wof:lastmodified":1564329961,
     "wof:name":"La Source",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0434\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Rodon"
+    ],
+    "name:fra_x_preferred":[
+        "Rodon"
+    ],
     "name:und_x_variant":[
         "Quartier Rodon",
         "Rodon"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343798285,
-    "wof:lastmodified":1537665745,
+    "wof:lastmodified":1564329819,
     "wof:name":"Rodon",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

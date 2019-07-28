@@ -25,7 +25,13 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thibault"
+    ],
     "name:fra_x_preferred":[
+        "Thibault"
+    ],
+    "name:ita_x_preferred":[
         "Thibault"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344075215,
-    "wof:lastmodified":1537665781,
+    "wof:lastmodified":1564329818,
     "wof:name":"Thibault",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ferre"
+    ],
     "name:fra_x_preferred":[
         "Ferr\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Ferre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1210052167,
-    "wof:lastmodified":1537665765,
+    "wof:lastmodified":1564329895,
     "wof:name":"Ferre",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

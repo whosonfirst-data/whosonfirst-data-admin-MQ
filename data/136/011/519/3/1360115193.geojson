@@ -28,13 +28,94 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cannelle"
+    ],
+    "name:ceb_x_preferred":[
+        "Cannelle"
+    ],
+    "name:cos_x_preferred":[
+        "Cannelle"
+    ],
+    "name:deu_x_preferred":[
+        "Cannelle"
+    ],
+    "name:eus_x_preferred":[
+        "Cannelle"
+    ],
     "name:fra_x_preferred":[
         "Cannelle"
+    ],
+    "name:hun_x_preferred":[
+        "Cannelle"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0576\u0565\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Cannelle"
+    ],
+    "name:ita_x_preferred":[
+        "Cannelle"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0435\u043b\u043b\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Cannelle"
+    ],
+    "name:msa_x_preferred":[
+        "Cannelle"
+    ],
+    "name:nld_x_preferred":[
+        "Cannelle"
+    ],
+    "name:nor_x_preferred":[
+        "Cannelle"
+    ],
+    "name:oci_x_preferred":[
+        "Cannelle"
+    ],
+    "name:pol_x_preferred":[
+        "Cannelle"
+    ],
+    "name:por_x_preferred":[
+        "Cannelle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0435\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Cannelle"
+    ],
+    "name:slv_x_preferred":[
+        "Cannelle"
+    ],
+    "name:spa_x_preferred":[
+        "Cannelle"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Cannelle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u043d\u0435\u043b\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Quartier la Canelle",
         "Quartier la Canette",
         "La Canelle"
+    ],
+    "name:vie_x_preferred":[
+        "Cannelle"
+    ],
+    "name:vol_x_preferred":[
+        "Cannelle"
+    ],
+    "name:war_x_preferred":[
+        "Cannelle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +140,7 @@
         }
     ],
     "wof:id":1360115193,
-    "wof:lastmodified":1537665760,
+    "wof:lastmodified":1564329923,
     "wof:name":"Cannelle",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

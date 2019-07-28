@@ -19,6 +19,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:ceb_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:deu_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:fra_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:ind_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:ita_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:lat_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:msa_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:nld_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:oci_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:pol_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:por_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:slk_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:spa_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:swe_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0430\u0437-\u0406\u043b\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
+    "name:war_x_preferred":[
+        "Les Trois-\u00celets"
+    ],
     "qs_pg:aaroncc":"MQ",
     "qs_pg:gn_country":"MQ",
     "qs_pg:gn_fcode":"ADM4",
@@ -57,7 +111,7 @@
         }
     ],
     "wof:id":1125366451,
-    "wof:lastmodified":1509389215,
+    "wof:lastmodified":1564329935,
     "wof:name":"Les Trois-\u00celets",
     "wof:parent_id":85671191,
     "wof:placetype":"localadmin",

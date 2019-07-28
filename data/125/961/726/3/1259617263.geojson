@@ -28,6 +28,9 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Coteaux"
+    ],
     "name:und_x_variant":[
         "Le Coteau",
         "Les Coteaux"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259617263,
-    "wof:lastmodified":1537665756,
+    "wof:lastmodified":1564329963,
     "wof:name":"Les Coteaux",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

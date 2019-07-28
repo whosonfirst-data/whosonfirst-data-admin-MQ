@@ -28,6 +28,9 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Perou"
+    ],
     "name:und_x_variant":[
         "Quartier P\u00e9rou",
         "P\u00e9rou"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309741331,
-    "wof:lastmodified":1537665751,
+    "wof:lastmodified":1564329930,
     "wof:name":"Perou",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

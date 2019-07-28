@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Bareto"
     ],
+    "name:spa_x_preferred":[
+        "Bareto"
+    ],
     "name:und_x_variant":[
         "Bar\u00e9to"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293919775,
-    "wof:lastmodified":1537665772,
+    "wof:lastmodified":1564329830,
     "wof:name":"Bareto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

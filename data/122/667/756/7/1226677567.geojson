@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Bernard"
     ],
+    "name:ltz_x_preferred":[
+        "Bernard"
+    ],
+    "name:slv_x_preferred":[
+        "Bernard"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226677567,
-    "wof:lastmodified":1537665770,
+    "wof:lastmodified":1564329973,
     "wof:name":"Bernard",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

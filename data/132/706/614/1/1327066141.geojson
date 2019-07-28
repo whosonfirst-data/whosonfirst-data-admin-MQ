@@ -28,16 +28,67 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:deu_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039c\u03b1\u03c1\u03b9\u03b3\u03ba\u03cc"
+    ],
     "name:fra_x_historical":[
         "Bourg du Marigot"
     ],
     "name:fra_x_preferred":[
         "Bourg du Marigot"
     ],
+    "name:fra_x_variant":[
+        "Le Marigot"
+    ],
+    "name:ita_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:lat_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:msa_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:nld_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:oci_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:pol_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:slk_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:spa_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:swe_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041c\u0430\u0440\u0438\u0433\u043e"
+    ],
     "name:und_x_variant":[
         "Fonds d\u2019Or",
         "Le Marigot",
         "Marigot"
+    ],
+    "name:vie_x_preferred":[
+        "Le Marigot"
+    ],
+    "name:war_x_preferred":[
+        "Le Marigot"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +114,7 @@
         }
     ],
     "wof:id":1327066141,
-    "wof:lastmodified":1537665755,
+    "wof:lastmodified":1564329798,
     "wof:name":"Le Marigot",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

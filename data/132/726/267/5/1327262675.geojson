@@ -28,6 +28,15 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:deu_x_preferred":[
+        "Le Carbet"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b5 \u039a\u03b1\u03c1\u03bc\u03c0\u03ad"
     ],
@@ -37,11 +46,47 @@
     "name:fra_x_preferred":[
         "Bourg du Carbet"
     ],
+    "name:fra_x_variant":[
+        "Le Carbet"
+    ],
+    "name:ita_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:lat_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:msa_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:nld_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:oci_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:pol_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:slk_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:spa_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:swe_x_preferred":[
+        "Le Carbet"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u041a\u0430\u0440\u0431\u0435"
     ],
     "name:und_x_variant":[
         "Carbet",
+        "Le Carbet"
+    ],
+    "name:vie_x_preferred":[
+        "Le Carbet"
+    ],
+    "name:war_x_preferred":[
         "Le Carbet"
     ],
     "src:geom":"geonames",
@@ -62,7 +107,7 @@
         }
     ],
     "wof:id":1327262675,
-    "wof:lastmodified":1537665757,
+    "wof:lastmodified":1564329814,
     "wof:name":"Le Carbet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

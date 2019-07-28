@@ -28,10 +28,121 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0632\u0627\u0628\u064a\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:bug_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:cat_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ceb_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ces_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:deu_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:epo_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fra_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d6 \u05d0\u05d1\u05d9\u05dd"
+    ],
+    "name:ind_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ita_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b6\u30d3\u30fc\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uc790\ube54"
+    ],
+    "name:lat_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:msa_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:nld_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nor_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:oci_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:pms_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:pol_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:por_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ron_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0431\u0438\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:slk_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:spa_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:swa_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:swe_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:tur_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0431\u0456\u043c"
+    ],
     "name:und_x_variant":[
         "Abymes",
         "Quartier des Abymes",
         "Les Abymes"
+    ],
+    "name:vie_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:war_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u840a\u6bd4\u6885"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -50,7 +161,7 @@
         }
     ],
     "wof:id":1293424705,
-    "wof:lastmodified":1537665757,
+    "wof:lastmodified":1564329851,
     "wof:name":"Les Abymes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

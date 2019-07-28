@@ -25,8 +25,14 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beauchene"
+    ],
     "name:fra_x_preferred":[
         "Beauch\u00eane"
+    ],
+    "name:swe_x_preferred":[
+        "Beauchene"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343579363,
-    "wof:lastmodified":1537665782,
+    "wof:lastmodified":1564329822,
     "wof:name":"Beauchene",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

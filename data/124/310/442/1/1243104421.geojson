@@ -28,8 +28,41 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tartana"
+    ],
+    "name:deu_x_preferred":[
+        "Tartane"
+    ],
     "name:fra_x_preferred":[
         "Tartane"
+    ],
+    "name:hrv_x_preferred":[
+        "Tartana"
+    ],
+    "name:ido_x_preferred":[
+        "Tartan-navo"
+    ],
+    "name:ita_x_preferred":[
+        "Tartana"
+    ],
+    "name:oci_x_preferred":[
+        "Tartana"
+    ],
+    "name:pol_x_preferred":[
+        "Tartana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tartana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1243104421,
-    "wof:lastmodified":1537665744,
+    "wof:lastmodified":1564329955,
     "wof:name":"Tartane",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

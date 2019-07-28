@@ -25,8 +25,35 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0628\u0627\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Genipa"
+    ],
     "name:fra_x_preferred":[
         "G\u00e9nipa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub2c8\ud31d\ub098\ubb34\uc18d"
+    ],
+    "name:nld_x_preferred":[
+        "Genipa"
+    ],
+    "name:por_x_preferred":[
+        "Genipa"
+    ],
+    "name:spa_x_preferred":[
+        "Genipa"
+    ],
+    "name:swe_x_preferred":[
+        "Genipa"
+    ],
+    "name:vie_x_preferred":[
+        "Genipa"
+    ],
+    "name:war_x_preferred":[
+        "Genipa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1210034573,
-    "wof:lastmodified":1537665776,
+    "wof:lastmodified":1564329895,
     "wof:name":"Genipa",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
