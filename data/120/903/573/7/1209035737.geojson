@@ -28,6 +28,15 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Lero"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e8\u05d5 \u05d5\u05dc\u05e8\u05d9\u05e0\u05d4"
+    ],
+    "name:por_x_preferred":[
+        "Lero"
+    ],
     "name:und_x_variant":[
         "Quartier L\u00e9ro",
         "L\u00e9ro"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209035737,
-    "wof:lastmodified":1537665757,
+    "wof:lastmodified":1564329890,
     "wof:name":"Lero",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

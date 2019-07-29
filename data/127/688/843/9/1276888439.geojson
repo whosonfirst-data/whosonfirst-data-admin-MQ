@@ -25,8 +25,20 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Longuet"
+    ],
     "name:fra_x_preferred":[
         "Longuet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f3\u30b2"
+    ],
+    "name:nds_x_preferred":[
+        "Longuet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0433\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276888439,
-    "wof:lastmodified":1537665773,
+    "wof:lastmodified":1564329860,
     "wof:name":"Longuet",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

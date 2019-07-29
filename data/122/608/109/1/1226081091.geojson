@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "La Nau"
     ],
+    "name:spa_x_preferred":[
+        "Centro Cultural La Nau"
+    ],
     "name:und_x_variant":[
         "Quartier la Nau"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226081091,
-    "wof:lastmodified":1537665748,
+    "wof:lastmodified":1564329981,
     "wof:name":"La Nau",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

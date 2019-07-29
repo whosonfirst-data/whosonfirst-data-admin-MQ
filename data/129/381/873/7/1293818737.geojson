@@ -28,11 +28,59 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:ceb_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:deu_x_preferred":[
+        "Case-Pilote"
+    ],
     "name:fra_x_historical":[
         "La Case Pilotte"
     ],
     "name:fra_x_preferred":[
         "La Case Pilotte"
+    ],
+    "name:fra_x_variant":[
+        "Case-Pilote"
+    ],
+    "name:ita_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:lat_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:msa_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:nld_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:oci_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:pol_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:slk_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:spa_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:swe_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437-\u041f\u0456\u043b\u043e\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Case-Pilote"
+    ],
+    "name:war_x_preferred":[
+        "Case-Pilote"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1293818737,
-    "wof:lastmodified":1537665768,
+    "wof:lastmodified":1564329856,
     "wof:name":"Case-Pilote",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

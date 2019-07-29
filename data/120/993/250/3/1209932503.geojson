@@ -25,7 +25,16 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bresson"
+    ],
     "name:fra_x_preferred":[
+        "Bresson"
+    ],
+    "name:ita_x_preferred":[
+        "Bresson"
+    ],
+    "name:swe_x_preferred":[
         "Bresson"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209932503,
-    "wof:lastmodified":1537665787,
+    "wof:lastmodified":1564329891,
     "wof:name":"Bresson",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

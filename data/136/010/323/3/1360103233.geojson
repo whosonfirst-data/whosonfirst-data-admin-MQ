@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Cocotte"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30b3\u30c3\u30c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360103233,
-    "wof:lastmodified":1537665780,
+    "wof:lastmodified":1564329924,
     "wof:name":"Cocotte",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

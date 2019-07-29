@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "D\u00e9bat"
     ],
+    "name:fra_x_variant":[
+        "Debat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260090393,
-    "wof:lastmodified":1537665781,
+    "wof:lastmodified":1564329903,
     "wof:name":"Debat",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

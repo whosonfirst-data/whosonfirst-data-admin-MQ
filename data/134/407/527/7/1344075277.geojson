@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nanon"
     ],
+    "name:ita_x_preferred":[
+        "Nanon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1344075277,
-    "wof:lastmodified":1537665778,
+    "wof:lastmodified":1564329819,
     "wof:name":"Nanon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

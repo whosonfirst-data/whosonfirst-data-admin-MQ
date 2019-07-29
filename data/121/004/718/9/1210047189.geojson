@@ -28,6 +28,54 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:deu_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:fra_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:ita_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:lat_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:msa_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:nld_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:oci_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:pol_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:slk_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:spa_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:swe_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041c\u043e\u0440\u043d-\u0412\u0435\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Le Morne-Vert"
+    ],
+    "name:war_x_preferred":[
+        "Le Morne-Vert"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1210047189,
-    "wof:lastmodified":1537568527,
+    "wof:lastmodified":1564329895,
     "wof:name":"Le Morne-Vert",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

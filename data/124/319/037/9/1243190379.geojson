@@ -25,7 +25,13 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Marlette"
+    ],
     "name:fra_x_preferred":[
+        "Marlette"
+    ],
+    "name:pol_x_preferred":[
         "Marlette"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243190379,
-    "wof:lastmodified":1537665787,
+    "wof:lastmodified":1564329958,
     "wof:name":"Marlette",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

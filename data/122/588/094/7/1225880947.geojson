@@ -28,8 +28,65 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:ceb_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:ces_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:deu_x_preferred":[
+        "Bellegarde"
+    ],
     "name:fra_x_preferred":[
         "Bellegarde"
+    ],
+    "name:ita_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:lmo_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:nds_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:nld_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:oci_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:pms_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:pol_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:por_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0433\u0430\u0440\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:slv_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:spa_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0433\u0430\u0440\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Bellegarde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0433\u0430\u0440\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +111,7 @@
         }
     ],
     "wof:id":1225880947,
-    "wof:lastmodified":1537665771,
+    "wof:lastmodified":1564329976,
     "wof:name":"Bellegarde",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

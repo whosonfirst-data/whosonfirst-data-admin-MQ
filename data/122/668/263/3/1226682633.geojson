@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Baldara"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u0926\u0921\u093c\u093e"
+    ],
     "name:und_x_variant":[
         "Quartier Morne Baldara",
         "Morne Baldara"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226682633,
-    "wof:lastmodified":1537665754,
+    "wof:lastmodified":1564329974,
     "wof:name":"Baldara",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

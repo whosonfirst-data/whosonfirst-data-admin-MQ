@@ -19,6 +19,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:ceb_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:deu_x_preferred":[
+        "Grand\u2019Rivi\u00e8re"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4'\u03a1\u03b9\u03b2\u03b9\u03ad\u03c1"
+    ],
+    "name:fra_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:lat_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:msa_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:nld_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:oci_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:pms_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:pol_x_preferred":[
+        "Grand\u2019Rivi\u00e8re"
+    ],
+    "name:por_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:slk_x_preferred":[
+        "Grand\u2019Rivi\u00e8re"
+    ],
+    "name:spa_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:swe_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d'\u0420\u0438\u0432'\u0454\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
+    "name:war_x_preferred":[
+        "Grand'Rivi\u00e8re"
+    ],
     "qs_pg:aaroncc":"MQ",
     "qs_pg:gn_country":"MQ",
     "qs_pg:gn_fcode":"ADM4",
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":1125316213,
-    "wof:lastmodified":1509388017,
+    "wof:lastmodified":1564329935,
     "wof:name":"Grand'Rivi\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

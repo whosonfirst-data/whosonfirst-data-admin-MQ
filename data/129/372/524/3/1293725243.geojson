@@ -28,6 +28,18 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bossou"
+    ],
+    "name:ita_x_preferred":[
+        "Bossou"
+    ],
+    "name:msa_x_preferred":[
+        "Bossou"
+    ],
+    "name:spa_x_preferred":[
+        "Bossou"
+    ],
     "name:und_x_variant":[
         "Quartier Bossou",
         "Quartier Bassou",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1293725243,
-    "wof:lastmodified":1537665769,
+    "wof:lastmodified":1564329858,
     "wof:name":"Bossou",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

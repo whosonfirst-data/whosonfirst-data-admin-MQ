@@ -25,8 +25,65 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u043e\u043d\u0436"
+    ],
+    "name:bre_x_preferred":[
+        "Saintonge"
+    ],
+    "name:cat_x_preferred":[
+        "Saintonge"
+    ],
+    "name:cym_x_preferred":[
+        "Saintonge"
+    ],
+    "name:deu_x_preferred":[
+        "Saintonge"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4\u03cc\u03bd\u03b6"
+    ],
+    "name:epo_x_preferred":[
+        "Santon\u011do"
+    ],
+    "name:eus_x_preferred":[
+        "Saintonge"
+    ],
     "name:fra_x_preferred":[
         "Saintonge"
+    ],
+    "name:glg_x_preferred":[
+        "Saintonge"
+    ],
+    "name:ita_x_preferred":[
+        "Saintonge"
+    ],
+    "name:nld_x_preferred":[
+        "Saintonge"
+    ],
+    "name:oci_x_preferred":[
+        "Santonge"
+    ],
+    "name:pol_x_preferred":[
+        "Saintonge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u043e\u043d\u0436"
+    ],
+    "name:slv_x_preferred":[
+        "Saintonge"
+    ],
+    "name:spa_x_preferred":[
+        "Saintonge"
+    ],
+    "name:swe_x_preferred":[
+        "Saintonge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u043e\u043d\u0436"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0648\u0646\u06af\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":1260300175,
-    "wof:lastmodified":1537665782,
+    "wof:lastmodified":1564329904,
     "wof:name":"Saintonge",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

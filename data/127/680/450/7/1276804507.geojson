@@ -28,6 +28,9 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Vierge"
+    ],
     "name:und_x_variant":[
         "Quartier la Vierge",
         "La Vierge"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276804507,
-    "wof:lastmodified":1537665757,
+    "wof:lastmodified":1564329864,
     "wof:name":"La Vierge",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

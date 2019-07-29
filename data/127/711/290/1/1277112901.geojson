@@ -28,8 +28,29 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bonny"
+    ],
+    "name:ceb_x_preferred":[
+        "Bonny"
+    ],
+    "name:deu_x_preferred":[
+        "Bonny"
+    ],
     "name:fra_x_preferred":[
         "Bonny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Bonny"
+    ],
+    "name:pol_x_preferred":[
+        "Bonny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043d\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Quartier la Bonnie",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1277112901,
-    "wof:lastmodified":1537665761,
+    "wof:lastmodified":1564329880,
     "wof:name":"Bonny",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

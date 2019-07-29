@@ -25,7 +25,13 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pavillon"
+    ],
     "name:fra_x_preferred":[
+        "Pavillon"
+    ],
+    "name:ltz_x_preferred":[
         "Pavillon"
     ],
     "src:geom":"geonames",
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1326944747,
-    "wof:lastmodified":1537665778,
+    "wof:lastmodified":1564329801,
     "wof:name":"Pavillon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

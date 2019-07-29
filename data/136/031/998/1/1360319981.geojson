@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "La Garenne"
     ],
+    "name:swe_x_preferred":[
+        "La Garenne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360319981,
-    "wof:lastmodified":1537665759,
+    "wof:lastmodified":1564329922,
     "wof:name":"La Garenne",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maxime"
+    ],
     "name:und_x_variant":[
         "Quartier Maxime",
         "Maxime"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309840771,
-    "wof:lastmodified":1537665754,
+    "wof:lastmodified":1564329927,
     "wof:name":"Maxime",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

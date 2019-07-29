@@ -28,8 +28,83 @@
     "iso:country":"MQ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u062f\u064a\u063a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "La Digue"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "La Digue"
+    ],
+    "name:ceb_x_preferred":[
+        "La Digue"
+    ],
+    "name:ces_x_preferred":[
+        "La Digue"
+    ],
+    "name:deu_x_preferred":[
+        "La Digue"
+    ],
+    "name:epo_x_preferred":[
+        "La Digue"
+    ],
+    "name:est_x_preferred":[
+        "La Digue'i saar"
+    ],
     "name:fra_x_preferred":[
         "La Digue"
+    ],
+    "name:glg_x_preferred":[
+        "La Digue"
+    ],
+    "name:ita_x_preferred":[
+        "La Digue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30c7\u30a3\u30fc\u30b0\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d3\u10d8\u10d2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub514\uadf8\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "La Digas"
+    ],
+    "name:nld_x_preferred":[
+        "La Digue"
+    ],
+    "name:pol_x_preferred":[
+        "La Digue"
+    ],
+    "name:por_x_preferred":[
+        "La Digue"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul La Digue"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0414\u0438\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "La Digue"
+    ],
+    "name:swe_x_preferred":[
+        "La Digue"
+    ],
+    "name:tur_x_preferred":[
+        "La Digue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0414\u0456\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8fea\u683c\u5c9b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +129,7 @@
         }
     ],
     "wof:id":1193167813,
-    "wof:lastmodified":1537665760,
+    "wof:lastmodified":1564329901,
     "wof:name":"La Digue",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
