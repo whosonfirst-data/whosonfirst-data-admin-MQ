@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.93606,14.56548,-60.89606,14.60548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Favrier Montaou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327048217,
-    "wof:lastmodified":1537665781,
+    "wof:lastmodified":1566611818,
     "wof:name":"Favrier Montaou",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

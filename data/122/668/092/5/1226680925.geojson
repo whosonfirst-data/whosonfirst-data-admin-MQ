@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.92263,14.63015,-60.88263,14.67015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mansarde Ranc\u00e9e"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226680925,
-    "wof:lastmodified":1537665755,
+    "wof:lastmodified":1566611902,
     "wof:name":"Mansarde Rancee",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

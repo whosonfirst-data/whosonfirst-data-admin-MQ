@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.85278,14.45714,-60.81278,14.49714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Macr\u00e9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326863743,
-    "wof:lastmodified":1537665755,
+    "wof:lastmodified":1566611813,
     "wof:name":"Macre",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

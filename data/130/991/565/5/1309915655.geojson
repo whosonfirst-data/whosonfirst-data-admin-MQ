@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.02504,14.75512,-60.98504,14.79512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Case Dujon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309915655,
-    "wof:lastmodified":1537665784,
+    "wof:lastmodified":1566611878,
     "wof:name":"Case Dujon",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.94435,14.45832,-60.90435,14.49832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Disjonsl\u00e9e"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226161263,
-    "wof:lastmodified":1537665778,
+    "wof:lastmodified":1566611900,
     "wof:name":"La Disjonslee",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

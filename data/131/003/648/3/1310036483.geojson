@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.04008,14.49284,-61.00008,14.53284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rateau"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310036483,
-    "wof:lastmodified":1564329918,
+    "wof:lastmodified":1566611873,
     "wof:name":"Rateau",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

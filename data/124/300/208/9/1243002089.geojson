@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.91866,14.58446,-60.87866,14.62446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Beauregard"
     ],
@@ -83,8 +87,7 @@
         "\u0411\u043e\u0440\u0435\u0433\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Quartier Beauregard",
-        "Beauregard"
+        "Quartier Beauregard"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1243002089,
-    "wof:lastmodified":1564329936,
+    "wof:lastmodified":1566611883,
     "wof:name":"Beauregard",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

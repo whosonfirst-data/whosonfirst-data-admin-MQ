@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.95673,14.47375,-60.91673,14.51375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grand-Figue"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309813541,
-    "wof:lastmodified":1537665775,
+    "wof:lastmodified":1566611880,
     "wof:name":"Grand-Figue",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

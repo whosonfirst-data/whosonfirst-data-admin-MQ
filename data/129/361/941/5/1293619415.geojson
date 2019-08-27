@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.93667,14.51333,-60.89667,14.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293619415,
-    "wof:lastmodified":1537090954,
+    "wof:lastmodified":1566611834,
     "wof:name":"Regale-de-Saint-Esprit",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

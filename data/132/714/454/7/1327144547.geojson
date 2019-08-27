@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.91437,14.53551,-60.87437,14.57551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fond Coulisse"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327144547,
-    "wof:lastmodified":1537665781,
+    "wof:lastmodified":1566611816,
     "wof:name":"Fond Coulisse",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

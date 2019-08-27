@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.89697,14.50815,-60.85697,14.54815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310535353,
-    "wof:lastmodified":1536872877,
+    "wof:lastmodified":1566611870,
     "wof:name":"Quartier Beauregard",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

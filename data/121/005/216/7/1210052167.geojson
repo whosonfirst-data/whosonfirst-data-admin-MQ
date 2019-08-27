@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.85537,14.45178,-60.81537,14.49178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ferre"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1210052167,
-    "wof:lastmodified":1564329895,
+    "wof:lastmodified":1566611860,
     "wof:name":"Ferre",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

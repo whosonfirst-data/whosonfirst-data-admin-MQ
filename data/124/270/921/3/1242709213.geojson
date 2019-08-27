@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.98727,14.65245,-60.94727,14.69245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Moulin \u00e0 Eau"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242709213,
-    "wof:lastmodified":1537665752,
+    "wof:lastmodified":1566611889,
     "wof:name":"Moulin a Eau",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

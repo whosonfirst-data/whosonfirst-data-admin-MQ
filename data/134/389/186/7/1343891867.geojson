@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.99769,14.50077,-60.95769,14.54077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Laugier"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343891867,
-    "wof:lastmodified":1537665758,
+    "wof:lastmodified":1566611828,
     "wof:name":"La Laugier",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.02421,14.72782,-60.98421,14.76782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bon Air"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242713031,
-    "wof:lastmodified":1564329949,
+    "wof:lastmodified":1566611889,
     "wof:name":"Bon Air",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.99957,14.65412,-60.95957,14.69412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sabine"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327066193,
-    "wof:lastmodified":1537665747,
+    "wof:lastmodified":1566611812,
     "wof:name":"Sabine",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

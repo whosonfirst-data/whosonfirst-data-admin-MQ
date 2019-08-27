@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.99432,14.49479,-60.95432,14.53479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0648\u0646"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1309924025,
-    "wof:lastmodified":1564329929,
+    "wof:lastmodified":1566611879,
     "wof:name":"Simon",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

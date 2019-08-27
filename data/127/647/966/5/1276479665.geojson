@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.01024,14.6367,-60.97024,14.6767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Grand Champ"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1276479665,
-    "wof:lastmodified":1564329871,
+    "wof:lastmodified":1566611845,
     "wof:name":"Grand Champ",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

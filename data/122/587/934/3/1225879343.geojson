@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.8991,14.39958,-60.8591,14.43958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fond Moustiques"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225879343,
-    "wof:lastmodified":1537665763,
+    "wof:lastmodified":1566611903,
     "wof:name":"Fond Moustiques",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.93421,14.4789,-60.89421,14.5189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coulanges"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1343972815,
-    "wof:lastmodified":1564329817,
+    "wof:lastmodified":1566611822,
     "wof:name":"Coulanges",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

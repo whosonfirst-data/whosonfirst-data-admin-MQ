@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.90942,14.64431,-60.86942,14.68431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gaalon"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1343892725,
-    "wof:lastmodified":1537665762,
+    "wof:lastmodified":1566611828,
     "wof:name":"Gaalon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

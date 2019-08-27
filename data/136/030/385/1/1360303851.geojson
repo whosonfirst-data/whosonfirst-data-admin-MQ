@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.04591,14.68524,-61.00591,14.72524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morne Vaudin"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360303851,
-    "wof:lastmodified":1537665785,
+    "wof:lastmodified":1566611875,
     "wof:name":"Morne Vaudin",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

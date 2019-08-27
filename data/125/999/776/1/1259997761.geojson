@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.04496,14.66487,-61.00496,14.70487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Petite Rivi\u00e8re Blanche"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259997761,
-    "wof:lastmodified":1537665788,
+    "wof:lastmodified":1566611894,
     "wof:name":"Petite Riviere Blanche",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
