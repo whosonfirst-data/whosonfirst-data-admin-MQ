@@ -12,8 +12,10 @@
     "gn:latitude":14.48333,
     "gn:longitude":-60.9,
     "iso:country":"MQ",
+    "lbl:bbox":"-60.908677,14.473445,-60.898677,14.483445",
     "lbl:latitude":14.478445,
     "lbl:longitude":-60.903677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.466873,
     "mps:longitude":-60.886488,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:fre_x_colloquial":[
         "Faubourg Schoelcher"
-    ],
-    "name:unk_x_variant":[
-        "Faubourg Sch\u0153lcher"
     ],
     "qs:gn_adm0_cc":"MQ",
     "qs:gn_fcode":"PPLX",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671191,
         102191581,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3570749,
         "gp:id":110433,
-        "qs:id":228583,
         "qs_pg:id":228583
     },
     "wof:country":"MQ",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561844831,
+    "wof:lastmodified":1566611829,
     "wof:name":"Faubourg Sch\u0153lcher",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

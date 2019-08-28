@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.10375,14.48168,-61.06375,14.52168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier Grande Anse",
         "Grande Anse"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293134923,
-    "wof:lastmodified":1537665762,
+    "wof:lastmodified":1566611834,
     "wof:name":"Grande Anse",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

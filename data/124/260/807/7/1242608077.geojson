@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.11706,14.49042,-61.07706,14.53042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baguidi",
         "Morne Baguidi"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242608077,
-    "wof:lastmodified":1537665754,
+    "wof:lastmodified":1566611886,
     "wof:name":"Morne Baguidi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

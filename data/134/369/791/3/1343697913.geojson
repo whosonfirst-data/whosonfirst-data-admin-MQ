@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.02489,14.63124,-60.98489,14.67124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Belfort"
     ],
@@ -179,8 +183,7 @@
         "\u0411\u0435\u043b\u044c\u0444\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Quartier Belfort",
-        "Belfort"
+        "Quartier Belfort"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0641\u0648\u063a"
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":1343697913,
-    "wof:lastmodified":1564329824,
+    "wof:lastmodified":1566611826,
     "wof:name":"Belfort",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

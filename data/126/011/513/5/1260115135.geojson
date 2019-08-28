@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.92205,14.52552,-60.88205,14.56552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier la Valette",
         "Quartier la Valatte",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260115135,
-    "wof:lastmodified":1537665743,
+    "wof:lastmodified":1566611866,
     "wof:name":"Valatte",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.89339,14.50838,-60.85339,14.54838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fond Mul\u00e2tres"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310241565,
-    "wof:lastmodified":1537665748,
+    "wof:lastmodified":1566611868,
     "wof:name":"Fond Mulatres",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

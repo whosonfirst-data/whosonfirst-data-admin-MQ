@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.98737,14.62266,-60.94737,14.66266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sarrault"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209345295,
-    "wof:lastmodified":1537665744,
+    "wof:lastmodified":1566611858,
     "wof:name":"Sarrault",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

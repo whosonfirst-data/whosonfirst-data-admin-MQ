@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.9755,14.68178,-60.9355,14.72178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u062f\u064a\u063a\u0648"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1193167813,
-    "wof:lastmodified":1564329901,
+    "wof:lastmodified":1566611864,
     "wof:name":"La Digue",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

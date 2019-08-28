@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.94614,14.52117,-60.90614,14.56117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier la Fontenay",
         "La Fontenay"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276263953,
-    "wof:lastmodified":1537665759,
+    "wof:lastmodified":1566611841,
     "wof:name":"La Fontenay",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

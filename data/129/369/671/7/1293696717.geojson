@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.92834,14.48136,-60.88834,14.52136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Matelin"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293696717,
-    "wof:lastmodified":1564329841,
+    "wof:lastmodified":1566611836,
     "wof:name":"Mathurin",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

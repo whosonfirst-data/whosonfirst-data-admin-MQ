@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.93902,14.53197,-60.89902,14.57197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mathilde"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1327467943,
-    "wof:lastmodified":1564329806,
+    "wof:lastmodified":1566611817,
     "wof:name":"Mathilde",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.01146,14.54434,-60.97146,14.58434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kanaal"
     ],
@@ -345,7 +349,7 @@
         }
     ],
     "wof:id":1209629955,
-    "wof:lastmodified":1564329883,
+    "wof:lastmodified":1566611851,
     "wof:name":"Canal",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

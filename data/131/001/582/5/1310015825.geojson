@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.94719,14.51053,-60.90719,14.55053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0628 \u0627\u0644\u062a\u0631\u064a\u0631"
     ],
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":1310015825,
-    "wof:lastmodified":1564329915,
+    "wof:lastmodified":1566611872,
     "wof:name":"Terrier",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

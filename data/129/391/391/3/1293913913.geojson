@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.01479,14.73612,-60.97479,14.77612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bonneville"
     ],
@@ -98,8 +102,7 @@
         "\u0411\u043e\u043d\u043d\u0432\u0456\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Quartier Caf\u00e9i\u00e8re Bonneville",
-        "Bonneville"
+        "Quartier Caf\u00e9i\u00e8re Bonneville"
     ],
     "name:zho_x_preferred":[
         "\u535a\u8bb7\u7ef4\u5c14"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1293913913,
-    "wof:lastmodified":1564329830,
+    "wof:lastmodified":1566611829,
     "wof:name":"Bonneville",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

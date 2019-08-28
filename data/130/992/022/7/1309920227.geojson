@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.88994,14.48538,-60.84994,14.52538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0431\u0438\u043d"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1309920227,
-    "wof:lastmodified":1564329928,
+    "wof:lastmodified":1566611879,
     "wof:name":"Robin",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

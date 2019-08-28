@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.00025,14.64363,-60.96025,14.68363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier B\u00e9couya",
         "B\u00e9couya"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260323013,
-    "wof:lastmodified":1537665771,
+    "wof:lastmodified":1566611867,
     "wof:name":"Becouya",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

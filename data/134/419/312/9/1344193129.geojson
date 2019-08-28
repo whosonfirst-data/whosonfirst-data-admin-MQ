@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.88705,14.52915,-60.84705,14.56915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier B\u00e9lair",
         "Bel-Air"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344193129,
-    "wof:lastmodified":1537665771,
+    "wof:lastmodified":1566611826,
     "wof:name":"Bel-Air",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

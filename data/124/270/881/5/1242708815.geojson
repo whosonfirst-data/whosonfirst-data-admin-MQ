@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.04626,14.75954,-61.00626,14.79954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier Recul\u00e9e",
         "Recul\u00e9",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242708815,
-    "wof:lastmodified":1537665746,
+    "wof:lastmodified":1566611888,
     "wof:name":"Reculee",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

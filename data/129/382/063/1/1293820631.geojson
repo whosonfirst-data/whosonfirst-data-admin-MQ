@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.96161,14.53348,-60.92161,14.57348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quartier Bois la Charles",
         "Bois la Charles"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293820631,
-    "wof:lastmodified":1537665770,
+    "wof:lastmodified":1566611833,
     "wof:name":"Bois la Charles",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

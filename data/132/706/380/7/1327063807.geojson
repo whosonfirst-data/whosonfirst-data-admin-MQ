@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.91924,14.47657,-60.87924,14.51657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mayol"
     ],
@@ -44,8 +48,7 @@
         "\u041c\u0430\u0439\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Quartier la Mayaule",
-        "Mayol"
+        "Quartier la Mayaule"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1327063807,
-    "wof:lastmodified":1564329798,
+    "wof:lastmodified":1566611812,
     "wof:name":"Mayol",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

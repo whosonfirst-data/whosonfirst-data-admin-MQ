@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-60.88106,14.40467,-60.84106,14.44467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Malgr\u00e9 Tout"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310341061,
-    "wof:lastmodified":1537665755,
+    "wof:lastmodified":1566611874,
     "wof:name":"Malgre Tout",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

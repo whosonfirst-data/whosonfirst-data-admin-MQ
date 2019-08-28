@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Martinique",
     "iso:country":"MQ",
+    "lbl:bbox":"-61.06274,14.67041,-61.02274,14.71041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morne des Olives"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326866489,
-    "wof:lastmodified":1537665757,
+    "wof:lastmodified":1566611813,
     "wof:name":"Morne des Olives",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
