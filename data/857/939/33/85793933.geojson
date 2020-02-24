@@ -74,6 +74,10 @@
         "qs_pg:id":1165140
     },
     "wof:country":"MQ",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8dca89300d43865df1bf8cd7169f300e",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611829,
+    "wof:lastmodified":1582379099,
     "wof:name":"Coridon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
