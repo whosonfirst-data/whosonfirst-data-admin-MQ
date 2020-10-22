@@ -9,7 +9,6 @@
     "geom:bbox":"-61.071118,14.601666,-61.071118,14.601666",
     "geom:latitude":14.601666,
     "geom:longitude":-61.071118,
-    "gn:id":"",
     "iso:country":"MQ",
     "lbl:bbox":"-61.076118,14.596666,-61.066118,14.606666",
     "lbl:latitude":14.601666,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85793941,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582379100,
+    "wof:lastmodified":1603263327,
     "wof:name":"Ste.-Th\u00e9r\u00e8se",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
