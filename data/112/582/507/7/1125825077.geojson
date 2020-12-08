@@ -559,7 +559,9 @@
         85671191
     ],
     "wof:breaches":[],
-    "wof:capital_of":85671191,
+    "wof:capital_of":[
+        85671191
+    ],
     "wof:concordances":{
         "gn:id":3570675,
         "gp:id":110467,
@@ -579,7 +581,7 @@
         }
     ],
     "wof:id":1125825077,
-    "wof:lastmodified":1566611883,
+    "wof:lastmodified":1607390882,
     "wof:name":"Fort-de-France",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
