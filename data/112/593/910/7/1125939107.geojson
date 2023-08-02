@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Le Morne-Rouge"
     ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0645\u0648\u0631\u0646 \u0631\u0648\u062c"
+    ],
     "name:arg_x_preferred":[
         "Le Morne-Rouge"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "Le Morne-Rouge"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0433\u04c0\u043d-\u0413\u04c0\u0443\u0436"
     ],
     "name:cos_x_preferred":[
         "Le Morne-Rouge"
@@ -160,6 +166,9 @@
     "name:lit_x_preferred":[
         "Le Morne-Rouge"
     ],
+    "name:lld_x_preferred":[
+        "Le Morne-Rouge"
+    ],
     "name:ltz_x_preferred":[
         "Le Morne-Rouge"
     ],
@@ -220,6 +229,9 @@
     "name:ron_x_preferred":[
         "Le Morne-Rouge"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435 \u041c\u043e\u0440\u043d-\u0420\u0443\u0436"
+    ],
     "name:scn_x_preferred":[
         "Le Morne-Rouge"
     ],
@@ -274,6 +286,9 @@
     "name:wol_x_preferred":[
         "Le Morne-Rouge"
     ],
+    "name:zho_x_preferred":[
+        "\u52d2\u83ab\u8bb7\u9c81\u65e5"
+    ],
     "name:zul_x_preferred":[
         "Le Morne-Rouge"
     ],
@@ -316,7 +331,7 @@
         }
     ],
     "wof:id":1125939107,
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1690939776,
     "wof:name":"Le Morne-Rouge",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
