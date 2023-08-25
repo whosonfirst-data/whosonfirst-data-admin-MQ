@@ -55,6 +55,9 @@
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u099f-\u09a1\u09bf-\u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09ab\u09b0-\u09a6\u09cd\u09af-\u09ab\u09cd\u09b0\u0981\u09b8"
+    ],
     "name:bos_x_preferred":[
         "Fort-de-France"
     ],
@@ -72,6 +75,12 @@
     ],
     "name:ces_x_preferred":[
         "Fort-de-France"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u043e\u0433\u04c0-\u0434\u0435-\u0424\u0433\u04c0\u0430\u043d\u0441"
+    ],
+    "name:chv_x_preferred":[
+        "\u0424\u043e\u0440-\u0434\u0435-\u0424\u0440\u0430\u043d\u0441"
     ],
     "name:cor_x_preferred":[
         "Fort-de-France"
@@ -132,6 +141,12 @@
     ],
     "name:frp_x_preferred":[
         "F\u00f4rt-de-France"
+    ],
+    "name:frr_x_preferred":[
+        "Fort-de-France"
+    ],
+    "name:fry_x_preferred":[
+        "Fort-de-France"
     ],
     "name:fur_x_preferred":[
         "Fort-de-France"
@@ -231,6 +246,9 @@
     ],
     "name:lit_x_preferred":[
         "For de Fransas"
+    ],
+    "name:lld_x_preferred":[
+        "Fort-de-France"
     ],
     "name:lmo_x_preferred":[
         "Fort-de-France"
@@ -421,6 +439,9 @@
     "name:wol_x_preferred":[
         "Fort-de-France"
     ],
+    "name:wuu_x_preferred":[
+        "\u6cd5\u5170\u897f\u5821"
+    ],
     "name:yor_x_preferred":[
         "Fort-de-France"
     ],
@@ -581,7 +602,7 @@
         }
     ],
     "wof:id":1125825077,
-    "wof:lastmodified":1607390882,
+    "wof:lastmodified":1690939777,
     "wof:name":"Fort-de-France",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",
